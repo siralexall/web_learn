@@ -1,0 +1,15 @@
+body{background: #dbf8c5}
+#table
+{
+    height: 200px;
+    padding-top: 20px;
+    background-color: #c8fea0
+}
+#form
+{
+    height: 200px;
+    padding-top: 20px;
+    background-color: #6ece6e
+}
+th{color: #000cff}
+td{color: #0024d3}

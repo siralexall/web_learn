@@ -1,0 +1,26 @@
+#text
+{
+    background-color: #f4d7a2;
+    font-weight: bold;
+    font-size: 25px;
+    font-family: 'Courier New';
+}
+#img1{border: 5px solid orange;}
+table
+{
+    border-collapse: collapse;
+    width: 30%;
+}
+th, td
+{
+    border: 2px solid orange;
+    text-align: center;
+    border-style: dashed;
+}
+.cap1
+{
+    font-size: 15px;
+    color: gray;
+}
+.t1, .t2{background-color: orange;}
+ul{list-style-image: url(../PR-10/imeges/Kenguru2.jpg);}

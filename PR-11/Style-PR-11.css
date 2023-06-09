@@ -1,0 +1,18 @@
+#ferst{
+    background-color: greenyellow;
+    width: 350px;
+    height: 200px;
+}
+td :hover{
+    border: 1px solid red;
+    border-radius: 25px;
+}
+td :focus{
+    border: 3px solid red;
+    color: red;
+    border-radius: 25px;
+}
+input{
+    outline: none;
+    border-radius: 25px;
+}

@@ -1,0 +1,21 @@
+#text1
+{
+    text-align: justify;
+    color: green;
+    font-family: "Comic Sans MS";
+    font-size: 25px;
+    word-spacing: 40px;
+}
+#text2
+{
+    text-align: end;
+    color: purple;
+    font-size: 30px;
+    font-weight: bold;
+}
+#text3
+{
+    text-align: start;
+    font-family: "gabriola";
+    font-size: 30px;
+}
